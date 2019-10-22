@@ -1,0 +1,44 @@
+
+html{
+    background-position:center;
+
+ background-image: url("../images/wes-hicks-MEL-jJnm7RQ-unsplash.jpg") ;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+marquee{
+
+    color:red;
+    font-size: xx-large;
+    font-family: impact;
+}
+h1{
+
+color:gold;
+font-family: impact;
+font-size: 100px;
+}
+a:hover{
+    border: 20px dotted whitesmoke;
+}
+
+nav table{
+   
+    
+border: 20px solid rgb(0, 0, 0);
+font-family: impact;
+width: 100%;
+font-size: 50px;
+
+}
+nav{
+background-color: red;
+color:gold;
+}
+p{
+    color: bisque;
+
+border:1px solid;
+
+}
